@@ -1,0 +1,49 @@
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.exe.config
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.exe
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.pdb
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.csprojResolveAssemblyReference.cache
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Form1.resources
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Properties.Resources.resources
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.csproj.GenerateResource.Cache
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.exe
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.pdb
+c:\users\enes\documents\visual studio 2015\Projects\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Proje.resources
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.exe.config
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.exe
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.pdb
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.exe
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.pdb
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.csprojResolveAssemblyReference.cache
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Proje.resources
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Properties.Resources.resources
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.csproj.GenerateResource.Cache
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Giris.resources
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Panel.resources
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Kayit.resources
+C:\Users\Enes\Desktop\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.SQLPanel.resources
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.exe.config
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.exe
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.pdb
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.exe
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\bin\Debug\DMGAL_vC.pdb
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.csprojResolveAssemblyReference.cache
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Kayit.resources
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Panel.resources
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Giris.resources
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Proje.resources
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.Properties.Resources.resources
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.SQLPanel.resources
+D:\Masaüstü Yedek\DMGAL_vC\DMGAL_vC\obj\Debug\DMGAL_vC.csproj.GenerateResource.Cache
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\bin\Debug\DMGAL_vC.exe.config
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.exe
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.pdb
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\bin\Debug\DMGAL_vC.exe
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\bin\Debug\DMGAL_vC.pdb
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.csprojResolveAssemblyReference.cache
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.Kayit.resources
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.Panel.resources
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.Giris.resources
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.Proje.resources
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.Properties.Resources.resources
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.SQLPanel.resources
+C:\Users\ENES\Desktop\DMGAL Kaynak Kodu\DMGAL_vC\obj\Debug\DMGAL_vC.csproj.GenerateResource.Cache

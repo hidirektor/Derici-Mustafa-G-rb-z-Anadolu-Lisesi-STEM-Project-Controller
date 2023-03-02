@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2520520,
+    "Username": "Brozen",
+    "Name": "Brozen",
+    "Email": "brozencity@gmail.com",
+    "AvatarUrl": "https://assets.gitlab-static.net/uploads/-/system/user/avatar/2520520/avatar.png",
+    "PrivateToken": "40da3de1148d4f8eb392b7839e3d410efce2cc1573a2e48035f8aee6761b6b99",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

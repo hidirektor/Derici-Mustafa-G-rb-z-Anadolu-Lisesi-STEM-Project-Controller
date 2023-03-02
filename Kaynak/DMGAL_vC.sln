@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMGAL_vC", "DMGAL_vC\DMGAL_vC.csproj", "{47290AF2-2248-465F-A813-672CC58EBA8D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DMGAL_Setup", "DMGAL_Setup\DMGAL_Setup.vdproj", "{B9FF9A2E-A268-4C9C-A7CF-5A46EFF8ECFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47290AF2-2248-465F-A813-672CC58EBA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47290AF2-2248-465F-A813-672CC58EBA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47290AF2-2248-465F-A813-672CC58EBA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47290AF2-2248-465F-A813-672CC58EBA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FF9A2E-A268-4C9C-A7CF-5A46EFF8ECFF}.Debug|Any CPU.ActiveCfg = Debug
+		{B9FF9A2E-A268-4C9C-A7CF-5A46EFF8ECFF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3531659A-DF65-4F02-B246-1968D66F0581}
+	EndGlobalSection
+EndGlobal
